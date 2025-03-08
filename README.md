@@ -1,5 +1,12 @@
 # EA Node.js + TypeScript + Mongoose
 
+## Fuentes
+- [ChatGPT](https://chat.openai.com/).
+- [Micrsoft Copilot]
+- [Repositori GitHub](https://github.com/rocmeseguer/EA-JS).
+- [Mongoose Documentation](https://mongoosejs.com/docs/populate.html).
+
+
 ## Requisitos Previos
 
 Asegúrate de tener instalados los siguientes programas en tu sistema:
