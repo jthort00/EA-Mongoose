@@ -3,7 +3,7 @@
 ## Fuentes
 - [ChatGPT](https://chat.openai.com/).
 - [Microsoft Copilot]
-- [Repositori GitHub](https://github.com/rocmeseguer/EA-JS).
+- [Repositori GitHub](https://github.com/rocmeseguer/EA-Mongoose).
 - [Mongoose Documentation](https://mongoosejs.com/docs/populate.html).
 
 
